@@ -14,5 +14,5 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-echo 'src-git wongsyrone https://github.com/homerouter/packages-1' >>feeds.conf.default
+#echo 'src-git wongsyrone https://github.com/homerouter/packages-1' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
