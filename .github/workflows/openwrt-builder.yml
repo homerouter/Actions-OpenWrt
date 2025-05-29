@@ -20,7 +20,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/homerouter/lede-1
+  REPO_URL: https://github.com/wongsyrone/lede-1
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.me
   CONFIG_FILE: .config
