@@ -12,6 +12,9 @@
 
 name: OpenWrt Builder
 
+permissions:
+  contents: write  # Required for creating/deleting releases
+  
 on:
   repository_dispatch:
   workflow_dispatch:
