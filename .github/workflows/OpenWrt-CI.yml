@@ -43,7 +43,7 @@ jobs:
       - name: Checkout OpenWrt
         uses: actions/checkout@v4
         with:
-         repository: coolsnowwolf/lede
+         repository: wongsyrone/lede-1
 
       - name: Free Disk Space (Ubuntu)
         uses: jlumbroso/free-disk-space@main
